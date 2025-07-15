@@ -9,3 +9,12 @@ Data used -
 https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data/data  
 
 https://www.kaggle.com/datasets/patricklford/global-co-emissions  
+
+# Creating a virtual environment
+
+python -m venv .venv
+.venv\Scripts\Activate   
+
+# Install dependencies
+
+pip install -r requirements.txt
