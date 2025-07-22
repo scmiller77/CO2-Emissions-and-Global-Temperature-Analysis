@@ -18,3 +18,11 @@ python -m venv .venv
 # Install dependencies
 
 pip install -r requirements.txt
+
+# EDA used
+
+This project primarily utilizes scatter plots to get an initial grasp of the data.
+
+# Advanced EDA 
+
+Machine learning is then implemented to better match trend lines and analyze correlations. Scikit-modeling is used for its ability to match non-linear data.
